@@ -1,4 +1,6 @@
 # ModusToolbox™ software
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsrivshu944%2Fmodustoolbox-software.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsrivshu944%2Fmodustoolbox-software?ref=badge_shield)
+
 
 ModusToolbox™ software is a modern, extensible development environment supporting a wide range of Infineon microcontroller devices. It provides a flexible set of tools and a diverse, high-quality collection of application-focused software. These include configuration tools, low-level drivers, libraries, and operating system support, most of which are compatible with Linux, macOS, and Windows-hosted environments. 
 
@@ -200,3 +202,7 @@ For information about <b>BTSDK</b>, see [https://Infineon.github.io/btsdk-docs/B
 | [CAPSENSE™](https://github.com/Infineon/capsense) | Capacitive sensing can be used in a variety of applications and products where conventional mechanical buttons can be replaced with sleek human interfaces to transform the way users interact with electronic systems. | [API reference](https://infineon.github.io/capsense/capsense_api_reference_manual/html/index.html) |
 
 </details>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsrivshu944%2Fmodustoolbox-software.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsrivshu944%2Fmodustoolbox-software?ref=badge_large)
